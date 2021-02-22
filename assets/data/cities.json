@@ -1,0 +1,92 @@
+[
+  {
+    "values": {
+      "temp": 11,
+      "temp_min": 8,
+      "temp_max": 16
+    },
+    "name": "Quito",
+    "cod": 1
+  },
+  {
+    "values": {
+      "temp": 26,
+      "temp_min": 23,
+      "temp_max": 31
+    },
+    "name": "Guayaquil",
+    "cod": 2
+  },
+  {
+    "values": {
+      "temp": 14,
+      "temp_min": 21,
+      "temp_max": 12
+    },
+    "name": "Cuenca",
+    "cod": 3
+  },
+  {
+    "values": {
+      "temp": 23,
+      "temp_min": 22,
+      "temp_max": 28
+    },
+    "name": "Portoviejo",
+    "cod": 4
+  },
+  {
+    "values": {
+      "temp": 12,
+      "temp_min": 11,
+      "temp_max": 19
+    },
+    "name": "Loja",
+    "cod": 5
+  },
+  {
+    "values": {
+      "temp": 14,
+      "temp_min": 11,
+      "temp_max": 20
+    },
+    "name": "Ambato",
+    "cod": 6
+  },
+  {
+    "values": {
+      "temp": 16,
+      "temp_min": 11,
+      "temp_max": 19
+    },
+    "name": "Ibarra",
+    "cod": 7
+  },
+  {
+    "values": {
+      "temp": 26,
+      "temp_min": 24,
+      "temp_max": 20
+    },
+    "name": "Machala",
+    "cod": 8
+  },
+  {
+    "values": {
+      "temp": 12,
+      "temp_min": 8,
+      "temp_max": 17
+    },
+    "name": "Latacunga",
+    "cod": 9
+  },
+  {
+    "values": {
+      "temp": 12,
+      "temp_min": 9,
+      "temp_max": 18
+    },
+    "name": "Riobamba",
+    "cod": 10
+  }
+]
